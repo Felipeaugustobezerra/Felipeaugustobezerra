@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **Analise e Desenvolvimento de Sistemas** na <a href="https://www.uninassau.edu.br/">Uninassau</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Kotlin,HTML,CSS,JS,Java,Phyton**.
+- 🌱 &nbsp; Aprendendo mais sobre **Swift,HTML,CSS,JS,React,Phyton**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
